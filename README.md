@@ -1,0 +1,6 @@
+# 模式币PHP前后端一体化模式平台
+
+本系统完整的数据货币模式币的玩法,各种模式均可以定制化生成,是内含支持USDT和ETH充值的系统（定制化,可以去掉）,需要ETH的RPC服务器,可以自己搭建节点（免费提供技术支持）,example.com 提供RPC的服务,因此,买家在购买之前需要确定自己是否需要ETH的RPC服务,<br>本站的USDT服务,是专门的归集服务,可以不和PHP源代码放在一起进行运行<br>本系统是纯开源，不涉及任何加密代码，example.com。拍之前请联系卖家索要演示地址和账号，进行相关测试，代码是否是你需要的。测试好后在进行拍下，演示什么样 给你的就是什么样,（当然,也可以提供定制化开发,具体需求详谈）<br>代码具有复制性，所以请看好 测试好在拍，只要卖家发送了代码后并且提供安装和部署服务后 就不能在退款。<br>另usdt钱包和网站对接，不能等到同步完成后在确认收货，在安装好网站后，能正常生成地址视为卖家的服务已经完结。需在3天内确认收货。<br>二次开发功能定制均需另外付费<br>拍下视为默认同意该条款内容。<br>前端:http://example.com/<br>可以封装为app的<br>http://example.com/example.com?g=admin&amp;m=public&amp;a=login<br>后台管理平台<br>测试账号abcd<br>密码abcd1234<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/OEIYM" style="color: red;">https://mega-file.org/OEIYM</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
